@@ -12,6 +12,14 @@ Sebelumnya saya sudah melakukan percobaan dengan part ke 4 nya. Menggunakan tens
 Saya yang masih awam dengan hal ini tertarik ketika melihat perbedaan antara satu dan lain hasilnya, meski koding yang saya jalankan serupa.
 Sehingga saya memutuskan untuk mengolah kembali part sebelumnya menjadi tulisan koding saya sendiri.
 
+File ini saya buat dengan tools sebagai berikut:
+
+- Python 2.7.13 64 bit
+- Visual Studio Code 
+- Numpy 1.16.4
+- Random
+- Math
+
 Silahkan gunakan file ini untuk kebutuhan pembelajaran anda. Semoga bermanfaat. Kritik dan saran sangat saya terima untuk meningkatkan pengetahuan saya dalam materi ini.
 
-Regards. M. Razif R.
+Regards. M. Razif Rizqullah
